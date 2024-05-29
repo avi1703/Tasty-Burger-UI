@@ -12,6 +12,16 @@ Welcome to the **Tasty-Burger UI** project! This is a visually appealing and use
 - **Shop Section:** Browse through various burger options.
 - **Blog Section:** Read delicious recipes, cooking tips, and more.
 
+  - ## Quick Demo
+
+- *Live link* - https://tasty-burger-ui.vercel.app/
+
+- 
+
+https://github.com/avi1703/Tasty-Burger-UI/assets/139549342/6e381c69-aec6-438c-8040-950dd9bb8de6
+
+
+
 ## Technologies Used
 
 - **React:** For building the dynamic and interactive user interface.
