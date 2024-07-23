@@ -16,7 +16,7 @@ Welcome to the **Tasty-Burger UI** project! This is a visually appealing and use
 
 - *Live link* - https://tasty-burger-ui.vercel.app/
 
-- 
+  
 
 https://github.com/avi1703/Tasty-Burger-UI/assets/139549342/6e381c69-aec6-438c-8040-950dd9bb8de6
 
