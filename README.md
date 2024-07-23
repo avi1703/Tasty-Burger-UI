@@ -45,7 +45,7 @@ Make sure you have the following installed on your local machine:
    ```bash
    git clone https://github.com/avi1703/tasty-burger-ui.git
    cd tasty-burger-ui
-```
+   ```
 
 2. **Install dependencies:**
    
