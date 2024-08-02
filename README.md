@@ -54,13 +54,13 @@ cd tasty-burger-ui
 
 **3. Install dependencies:**
    
-    ```bash
+  ```bash
     npm install
-    ```
+  ```
 
 **4. Running the Project:** 
 
-     To start the development server, run
-     ```bash
+  
+   ```bash
      npm start
-     ```
+  ```
