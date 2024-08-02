@@ -12,7 +12,7 @@ Welcome to the **Tasty-Burger UI** project! This is a visually appealing and use
 - **Shop Section:** Browse through various burger options.
 - **Blog Section:** Read delicious recipes, cooking tips, and more.
 
-  - ## Quick Demo
+## Quick Demo
 
 - *Live link* - https://tasty-burger-ui.vercel.app/
 
@@ -40,20 +40,25 @@ Make sure you have the following installed on your local machine:
 
 ### Installation
 
-1. **Clone the repository:**
+**1. Clone this repository:**
 
    ```bash
    git clone https://github.com/avi1703/tasty-burger-ui.git
-   cd tasty-burger-ui
    ```
 
-2. **Install dependencies:**
+**2. Navigate to the directory:**
+
+```bash
+cd tasty-burger-ui
+```
+
+**3. Install dependencies:**
    
     ```bash
     npm install
     ```
 
-3. **Running the Project:** 
+**4. Running the Project:** 
 
      To start the development server, run
      ```bash
